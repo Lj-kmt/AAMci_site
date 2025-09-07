@@ -62,7 +62,7 @@ body {
 .hero {
   position: relative;
   min-height: 60vh;
-  background: url('asset.img/Design sans titre.png') center/cover no-repeat;
+  background: url('Design sans titre.png') center/cover no-repeat;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
@@ -432,4 +432,5 @@ body {
   .experts-title { font-size: 1.07em;}
   .footer-content p { font-size: .92em;}
   .footer-icons a { font-size: 1.2em;}
+
 }
